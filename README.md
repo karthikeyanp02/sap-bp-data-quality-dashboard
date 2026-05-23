@@ -27,6 +27,19 @@ This project aims to proactively identify and prioritize poor-quality master dat
 - Root cause analysis for missing fields
 
 ---
+## How to Run
+
+1. Clone the repo
+   git clone https://github.com/karthikeyanp02/sap-bp-data-quality-dashboard.git
+
+2. Install dependencies
+   pip install -r requirements.txt
+
+3. Open the notebook
+   notebooks/bpdashboard.ipynb
+
+4. Run all cells
+   The report will be generated in the output/ folder
 
 ## Tech Stack
 
